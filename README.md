@@ -17,6 +17,7 @@ Whisper
 ● https://github.com/ggerganov/whisper.cpp
 
 ● https://github.com/SYSTRAN/faster-whisper
+
 Use a pre-trained English model (e.g., en-US) with the following settings:
 ● Sampling rate: 16 kHz
 ● Audio channel count: 1 (mono)
@@ -42,6 +43,7 @@ Text-to-Speech Conversion - In this step you are required to convert text into s
 ○ https://huggingface.co/suno/bark
 
 ○ https://huggingface.co/parler-tts/parler-tts-large-v1
+
 The output of the LLM from the previous step 2 should be converted into speech (file .mp3
 or .wav)
 
