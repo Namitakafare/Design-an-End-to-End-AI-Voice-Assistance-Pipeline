@@ -11,8 +11,11 @@ and speed.
 Voice-to-Text Conversion - In this step explain how you will convert voice input (microphone
 or audio file) to text. Use any open source Speech2Text Model preferably -
 Whisper
+
 ● https://github.com/openai/whisper
+
 ● https://github.com/ggerganov/whisper.cpp
+
 ● https://github.com/SYSTRAN/faster-whisper
 Use a pre-trained English model (e.g., en-US) with the following settings:
 ● Sampling rate: 16 kHz
