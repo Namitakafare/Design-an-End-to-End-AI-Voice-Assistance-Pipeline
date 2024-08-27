@@ -34,9 +34,13 @@ llama, Mistral, Mixtral, Phi2 etc)
 **Step 3:
 Text-to-Speech Conversion - In this step you are required to convert text into speech
 ● Use any Text to Speech open source models such as -
+
 ○ https://github.com/rany2/edge-tts
+
 ○ https://huggingface.co/microsoft/speecht5_tts
+
 ○ https://huggingface.co/suno/bark
+
 ○ https://huggingface.co/parler-tts/parler-tts-large-v1
 The output of the LLM from the previous step 2 should be converted into speech (file .mp3
 or .wav)
